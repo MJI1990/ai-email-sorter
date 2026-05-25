@@ -33,3 +33,10 @@ How to Run
 2. Install requirements:
    ```bash
    pip install -r requirements.txt
+
+Installation
+
+```bash
+git clone https://github.com/MJI1990/ai-email-sorter.git
+cd ai-email-sorter
+pip install -r requirements.txt
